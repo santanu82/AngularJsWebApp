@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJsWebApp", "AngularJsWebApp\AngularJsWebApp.csproj", "{AAD95A2E-03F7-4942-B5C2-C4F029B90AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJsWebApp.Tests", "AngularJsWebApp.Tests\AngularJsWebApp.Tests.csproj", "{E114073F-245B-43A7-A809-DED5121BC20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD95A2E-03F7-4942-B5C2-C4F029B90AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD95A2E-03F7-4942-B5C2-C4F029B90AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD95A2E-03F7-4942-B5C2-C4F029B90AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD95A2E-03F7-4942-B5C2-C4F029B90AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E114073F-245B-43A7-A809-DED5121BC20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E114073F-245B-43A7-A809-DED5121BC20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E114073F-245B-43A7-A809-DED5121BC20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E114073F-245B-43A7-A809-DED5121BC20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
